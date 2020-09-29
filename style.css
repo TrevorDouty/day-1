@@ -1,6 +1,5 @@
 body{
-  background-color: orange;
-  background-image: url(https://www.nps.gov/articles/images/37579352874_d3126d2a4e_o.jpg?maxwidth=650&autorotate=false);
+    background-image: url(https://www.nps.gov/articles/images/37579352874_d3126d2a4e_o.jpg?maxwidth=650&autorotate=false);
   background-size: cover;
 }
 
@@ -31,10 +30,19 @@ ul{
 }
 
 img{
-  border-radius: 10px;
-  size: 100px;
+  border-radius: 20px;
+  height: 200px;
+  width: 150px;
+  padding-top: 50px;
+
 }
 
+.center{
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
 p{
   font-style: normal;
   font-family: 'Times New Roman', Times, serif;
