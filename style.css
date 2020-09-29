@@ -1,5 +1,42 @@
-#Name {
-  color: darkgoldenrod;
-  font-size: larger;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+body{
+  background-color: orange;
+  background-image: url(https://www.nps.gov/articles/images/37579352874_d3126d2a4e_o.jpg?maxwidth=650&autorotate=false);
+  background-size: cover;
+}
+
+
+
+
+.name{
+  color: brown;
+  margin: auto;
+  width: 20%;
+  text-decoration: underline;
+  font-family: cursive;
+}
+
+.about{
+  color: brown;
+  margin: auto;
+  width: 90%;
+  font-family: cursive;
+
+}
+
+ul{
+  font-style: normal;
+  font-family: fantasy;
+  color: white
+  ;
+}
+
+img{
+  border-radius: 10px;
+  size: 100px;
+}
+
+p{
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
 }
