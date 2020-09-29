@@ -9,7 +9,7 @@ body{
 .name{
   color: brown;
   margin: auto;
-  width: 20%;
+  text-align: center;
   text-decoration: underline;
   font-family: cursive;
 }
@@ -17,34 +17,37 @@ body{
 .about{
   color: brown;
   margin: auto;
-  width: 90%;
+  text-align: center;
   font-family: cursive;
 
 }
 
 ul{
+  margin: auto;
+  width: 15%;
   font-style: normal;
   font-family: fantasy;
-  color: white
+  color: brown
   ;
 }
 
 img{
-  border-radius: 20px;
+  border-radius: 12px;
   height: 200px;
   width: 150px;
-  padding-top: 50px;
+  padding-top: 25px;
 
 }
 
 .center{
   display: block;
-  margin-top: auto;
+  
   margin-left: auto;
   margin-right: auto;
 }
 p{
   font-style: normal;
   font-family: 'Times New Roman', Times, serif;
-  color: white;
+  color: brown;
+  font-weight: bolder;
 }
